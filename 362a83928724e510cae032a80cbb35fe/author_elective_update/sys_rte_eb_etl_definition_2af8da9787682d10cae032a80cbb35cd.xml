@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_definition">
+    <sys_rte_eb_etl_definition action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>true</copy_empty_fields>
+        <description>ETL definition for Purchase Order Import</description>
+        <name>Purchase Order Import_etl_ihub</name>
+        <on_after_script><![CDATA[(function onAfter(source, target, importLog) {
+
+	// Add your on after code here
+
+})(source, target, importLog);]]></on_after_script>
+        <on_after_script_bool>false</on_after_script_bool>
+        <on_before_script><![CDATA[(function onBefore(source, target, importLog) {
+
+	// Add your on before code here
+
+})(source, target, importLog);]]></on_before_script>
+        <on_before_script_bool>false</on_before_script_bool>
+        <sys_class_name>sys_rte_eb_etl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:05:24</sys_created_on>
+        <sys_id>2af8da9787682d10cae032a80cbb35cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Order Import_etl_ihub</sys_name>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_definition_2af8da9787682d10cae032a80cbb35cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:05:24</sys_updated_on>
+    </sys_rte_eb_etl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</application>
+        <file_path/>
+        <instance_id>81b0037fdb442910b847ac44d4961969</instance_id>
+        <instance_name>demobuildwf27505</instance_name>
+        <name>sys_rte_eb_etl_definition_2af8da9787682d10cae032a80cbb35cd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_etl_definition"&gt;&lt;sys_rte_eb_etl_definition action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;true&lt;/copy_empty_fields&gt;&lt;description&gt;ETL definition for Purchase Order Import&lt;/description&gt;&lt;name&gt;Purchase Order Import_etl_ihub&lt;/name&gt;&lt;on_after_script&gt;&lt;![CDATA[(function onAfter(source, target, importLog) {
+
+	// Add your on after code here
+
+})(source, target, importLog);]]&gt;&lt;/on_after_script&gt;&lt;on_after_script_bool&gt;false&lt;/on_after_script_bool&gt;&lt;on_before_script&gt;&lt;![CDATA[(function onBefore(source, target, importLog) {
+
+	// Add your on before code here
+
+})(source, target, importLog);]]&gt;&lt;/on_before_script&gt;&lt;on_before_script_bool&gt;false&lt;/on_before_script_bool&gt;&lt;sys_class_name&gt;sys_rte_eb_etl_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-01-27 22:05:24&lt;/sys_created_on&gt;&lt;sys_id&gt;2af8da9787682d10cae032a80cbb35cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Purchase Order Import_etl_ihub&lt;/sys_name&gt;&lt;sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0"&gt;362a83928724e510cae032a80cbb35fe&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Invoice Matching"&gt;362a83928724e510cae032a80cbb35fe&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_etl_definition_2af8da9787682d10cae032a80cbb35cd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-01-27 22:05:24&lt;/sys_updated_on&gt;&lt;/sys_rte_eb_etl_definition&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-418275057</payload_hash>
+        <record_name>Purchase Order Import_etl_ihub</record_name>
+        <reverted_from/>
+        <source>9ba576a2db646910bdf7cf83159619d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:05:24</sys_created_on>
+        <sys_id>e2f8da9787682d10cae032a80cbb35d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185f54391840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:05:24</sys_updated_on>
+        <type>ETL Definition</type>
+        <update_guid>eaf8da975a682d10476c0e831699afcf</update_guid>
+        <update_guid_history>eaf8da975a682d10476c0e831699afcf:-418275057</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:06:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_definition">sys_rte_eb_etl_definition</sys_db_object>
+        <sys_id>690b3224368440b298649f6810831f24</sys_id>
+        <sys_metadata>2af8da9787682d10cae032a80cbb35cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Order Import_etl_ihub</sys_name>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope_delete display_value="">72405f8074f24d389174901f88884184</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_definition_2af8da9787682d10cae032a80cbb35cd</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_definition_2af8da9787682d10cae032a80cbb35cd">e2f8da9787682d10cae032a80cbb35d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:06:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

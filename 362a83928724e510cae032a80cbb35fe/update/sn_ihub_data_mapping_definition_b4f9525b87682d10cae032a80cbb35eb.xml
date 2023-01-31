@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FD30f9525bf5682d1077e11222d27d9ae9">f0f9525b87682d10cae032a80cbb35e9</published_source_structure>
+        <record_id>19e9125b87682d10cae032a80cbb3552</record_id>
+        <source_structure display_value="ih_import_FD868a529b83682d109a6a5b4bf7fa1bd1">4a8a529b87682d10cae032a80cbb35d1</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:09:39</sys_created_on>
+        <sys_id>b4f9525b87682d10cae032a80cbb35eb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_b4f9525b87682d10cae032a80cbb35eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:12:11</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>

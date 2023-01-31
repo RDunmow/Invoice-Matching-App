@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_po_line_item_sn_ihub_pill_uid_1674857415949</field>
+        <name>PO Line Item_sn_ihub_target_po_line_item</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:11:00</sys_created_on>
+        <sys_id>b04a5a5b87682d10cae032a80cbb3567</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PO Line Item_sn_ihub_target_po_line_item</sys_name>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Invoice Import_etl_ihub">ef0a9a1b87682d10cae032a80cbb35a8</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_snc_test_invoi_0_invoice">744a5a5b87682d10cae032a80cbb3556</sys_rte_eb_entity>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_b04a5a5b87682d10cae032a80cbb3567</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:11:00</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

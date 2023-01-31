@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_total</field>
+        <name>Total</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:05:24</sys_created_on>
+        <sys_id>f6f896d787682d10cae032a80cbb354e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Total</sys_name>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Purchase Order Import_etl_ihub">2af8da9787682d10cae032a80cbb35cd</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Source_x_snc_test_invoi_0_ihub_import_a1989a9787682d10cae032a80cbb3595">aef8da9787682d10cae032a80cbb35d3</sys_rte_eb_entity>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_f6f896d787682d10cae032a80cbb354e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:05:24</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</application>
+        <file_path/>
+        <instance_id>81b0037fdb442910b847ac44d4961969</instance_id>
+        <instance_name>demobuildwf27505</instance_name>
+        <name>sys_rte_eb_etl_field_f6f896d787682d10cae032a80cbb354e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>u_total</field><name>Total</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-27 22:05:24</sys_created_on><sys_id>f6f896d787682d10cae032a80cbb354e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Total</sys_name><sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package><sys_policy/><sys_rte_eb_definition display_value="Purchase Order Import_etl_ihub">2af8da9787682d10cae032a80cbb35cd</sys_rte_eb_definition><sys_rte_eb_entity display_value="Source_x_snc_test_invoi_0_ihub_import_a1989a9787682d10cae032a80cbb3595">aef8da9787682d10cae032a80cbb35d3</sys_rte_eb_entity><sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope><sys_update_name>sys_rte_eb_etl_field_f6f896d787682d10cae032a80cbb354e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-27 22:05:24</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>191830989</payload_hash>
+        <record_name>Total</record_name>
+        <reverted_from/>
+        <source>9ba576a2db646910bdf7cf83159619d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:05:24</sys_created_on>
+        <sys_id>7ef896d787682d10cae032a80cbb354f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185f54392540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:05:24</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>76f896d70d682d10fe44ee7c2270574f</update_guid>
+        <update_guid_history>76f896d70d682d10fe44ee7c2270574f:191830989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:06:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>39a5787337284c09b52fbad4140b2229</sys_id>
+        <sys_metadata>f6f896d787682d10cae032a80cbb354e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Total</sys_name>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope_delete display_value="">72405f8074f24d389174901f88884184</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_f6f896d787682d10cae032a80cbb354e</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_f6f896d787682d10cae032a80cbb354e">7ef896d787682d10cae032a80cbb354f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:06:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

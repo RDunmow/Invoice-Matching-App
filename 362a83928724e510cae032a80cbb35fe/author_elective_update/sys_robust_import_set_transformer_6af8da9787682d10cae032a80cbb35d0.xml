@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="DELETE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Purchase Order Import</description>
+        <name>Purchase Order Import_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine/>
+        <source_table>x_snc_test_invoi_0_ihub_import_a1989a9787682d10cae032a80cbb3595</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:05:24</sys_created_on>
+        <sys_id>6af8da9787682d10cae032a80cbb35d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Order Import_rte_ihub</sys_name>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_6af8da9787682d10cae032a80cbb35d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:05:24</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</application>
+        <file_path/>
+        <instance_id>81b0037fdb442910b847ac44d4961969</instance_id>
+        <instance_name>demobuildwf27505</instance_name>
+        <name>sys_robust_import_set_transformer_6af8da9787682d10cae032a80cbb35d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer"><sys_robust_import_set_transformer action="INSERT_OR_UPDATE"><active>true</active><batch_size>10</batch_size><description>RTE definition for Purchase Order Import</description><name>Purchase Order Import_rte_ihub</name><properties/><robust_transform_engine/><source_table>x_snc_test_invoi_0_ihub_import_a1989a9787682d10cae032a80cbb3595</source_table><sys_class_name>sys_robust_import_set_transformer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-27 22:05:24</sys_created_on><sys_id>6af8da9787682d10cae032a80cbb35d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Purchase Order Import_rte_ihub</sys_name><sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package><sys_policy/><sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope><sys_update_name>sys_robust_import_set_transformer_6af8da9787682d10cae032a80cbb35d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-27 22:05:24</sys_updated_on><verbose>false</verbose></sys_robust_import_set_transformer></record_update>]]></payload>
+        <payload_hash>885571409</payload_hash>
+        <record_name>Purchase Order Import_rte_ihub</record_name>
+        <reverted_from/>
+        <source>9ba576a2db646910bdf7cf83159619d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:06:19</sys_created_on>
+        <sys_id>4c391ed787682d10cae032a80cbb35b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185f544693b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:06:19</sys_updated_on>
+        <type>Robust Import Set Transformer</type>
+        <update_guid>6af8da9793682d1037c1748d836b6fd2</update_guid>
+        <update_guid_history>6af8da9793682d1037c1748d836b6fd2:1017612799,6af8da9793682d1037c1748d836b6fd2:1017612799</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:06:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_robust_import_set_transformer">sys_robust_import_set_transformer</sys_db_object>
+        <sys_id>9dc785a7cef845e584fd298813fdd971</sys_id>
+        <sys_metadata>6af8da9787682d10cae032a80cbb35d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Order Import_rte_ihub</sys_name>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope_delete display_value="">72405f8074f24d389174901f88884184</sys_scope_delete>
+        <sys_update_name>sys_robust_import_set_transformer_6af8da9787682d10cae032a80cbb35d0</sys_update_name>
+        <sys_update_version display_value="sys_robust_import_set_transformer_6af8da9787682d10cae032a80cbb35d0">4c391ed787682d10cae032a80cbb35b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:06:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

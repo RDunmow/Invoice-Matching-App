@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e34a9693dbe86d10bdf7cf8315961999" extends="sys_import_set_row" label="Invoice Import" max_length="40" name="x_snc_test_invoi_0_ihub_import_d5e9125b87682d10cae032a80cbb352c" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Invoice Line Number" label="Invoice Line Number" max_length="40" name="u_invoice_line_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Invoice Number" label="Invoice Number" max_length="40" name="u_invoice_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Item Description" label="Item Description" max_length="40" name="u_item_description" type="string"/>
+        <element attributes="import_attribute_name=PO Line Item" label="PO Line Item" max_length="40" name="u_po_line_item" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PO Number" label="PO Number" max_length="40" name="u_po_number" type="string"/>
+        <element attributes="import_attribute_name=Price" label="Price" max_length="40" name="u_price" type="integer"/>
+        <element attributes="import_attribute_name=Quantity" label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Supplier" label="Supplier" max_length="40" name="u_supplier" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total" label="Total" max_length="40" name="u_total" type="string"/>
+    </element>
+</database>

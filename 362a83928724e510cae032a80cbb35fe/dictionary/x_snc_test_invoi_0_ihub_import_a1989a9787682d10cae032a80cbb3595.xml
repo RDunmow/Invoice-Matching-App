@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="94b9da1b87682d10cae032a80cbb3528" extends="sys_import_set_row" label="Purchase Order Import" max_length="40" name="x_snc_test_invoi_0_ihub_import_a1989a9787682d10cae032a80cbb3595" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Item Description" label="Item Description" max_length="40" name="u_item_description" type="string"/>
+        <element attributes="import_attribute_name=PO Line Item" label="PO Line Item" max_length="40" name="u_po_line_item" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PO Number" label="PO Number" max_length="40" name="u_po_number" type="string"/>
+        <element attributes="import_attribute_name=Price" label="Price" max_length="40" name="u_price" type="integer"/>
+        <element attributes="import_attribute_name=Quantity" label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Requester" label="Requester" max_length="40" name="u_requester" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Requesting Department" label="Requesting Department" max_length="40" name="u_requesting_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total" label="Total" max_length="40" name="u_total" type="string"/>
+    </element>
+</database>

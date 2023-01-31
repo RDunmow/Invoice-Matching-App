@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ih_import_FDdcc8de979d682d10f041990fef1384cb</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>362a83928724e510cae032a80cbb35fe</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FDdcc8de979d682d10f041990fef1384cb":{"u_requester":"String","u_requester.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Requester\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_requesting_department":"String","u_requesting_department.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Requesting Department\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_po_line_item":"Integer","u_po_line_item.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"PO Line Item\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_total":"String","u_total.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Total\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_date":"String","u_date.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Date\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_item_description":"String","u_item_description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Item Description\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_price":"Integer","u_price.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Price\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_quantity":"Integer","u_quantity.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Quantity\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_po_number":"String","u_po_number.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"PO Number\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_company":"String","u_company.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Company\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FDdcc8de979d682d10f041990fef1384cb.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FDdcc8de979d682d10f041990fef1384cb\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:04:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90c8de9787682d10cae032a80cbb35cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FDdcc8de979d682d10f041990fef1384cb</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>sys_complex_object_90c8de9787682d10cae032a80cbb35cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:04:25</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
