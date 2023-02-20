@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="20e4d9471bc921504608fff4464bcb1f" label="Import Attachment" max_length="40" name="x_snc_test_invoi_0_import_attachment" type="collection">
+        <element label="Import Map" max_length="32" name="import_map" reference="sys_data_source" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Import Type" max_length="40" name="import_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Invoice" sequence="0" value="invoice"/>
+                <element inactive_on_update="false" label="PO" sequence="1" value="po"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Information" max_length="1000" name="information" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Schedule Import" max_length="32" name="schedule_import" reference="scheduled_import_set" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Run Import" sequence="1" value="run_import"/>
+                <element inactive_on_update="false" label="Import Complete" sequence="2" value="import_complete"/>
+                <element inactive_on_update="false" label="Import Error" sequence="3" value="import_error"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="import_map"/>
+        </index>
+        <index name="index2">
+            <element name="schedule_import"/>
+        </index>
+    </element>
+</database>
